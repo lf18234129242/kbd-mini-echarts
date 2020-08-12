@@ -1,0 +1,12 @@
+{
+  "name": "kbd-mini-echarts",
+  "version": "1.0.0",
+  "description": "供小程序使用的压缩定制版Echarts包",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "yuanwai",
+  "license": "ISC"
+}
